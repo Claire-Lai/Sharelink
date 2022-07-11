@@ -1,0 +1,21 @@
+button{
+    border-radius: 25px;
+    padding:2px;
+}
+
+.link{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0
+}
+
+.justForStyling{
+    display:inline-block;
+    width:100px
+}
+
+.justForStyling2{
+    display:inline-block;
+
+}
